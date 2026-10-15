@@ -1,0 +1,111 @@
+
+const products = [
+  {
+    id: 1,
+    name: "Classic White T-Shirt",
+    category: "Men",
+    price: 599,
+    image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=700",
+    description: "A comfortable cotton T-shirt for everyday wear.",
+  },
+  {
+    id: 2,
+    name: "Denim Jacket",
+    category: "Men",
+    price: 1499,
+    image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=700",
+    description: "A versatile denim jacket for casual outfits.",
+  },
+  {
+    id: 3,
+    name: "Summer Dress",
+    category: "Women",
+    price: 1299,
+    image: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=700",
+    description: "A stylish dress for summer outings and special occasions.",
+  },
+  {
+    id: 4,
+    name: "Everyday Handbag",
+    category: "Accessories",
+    price: 1199,
+    image: "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=700",
+    description: "A practical handbag designed to complement your look.",
+  },
+  {
+    id: 5,
+    name: "Classic Sneakers",
+    category: "Footwear",
+    price: 1799,
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700",
+    description: "Casual sneakers for everyday activities.",
+  },
+  {
+    id: 6,
+    name: "Sunglasses",
+    category: "Accessories",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=700",
+    description: "A simple accessory to finish your outfit.",
+  },
+  {
+    id: 7,
+    name: "Kashmiri Kaftaan",
+    category: "Women",
+    price: 599,
+    image: "https://images.unsplash.com/photo-1605763240000-7e93b172d754?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    description: "A stylish dress for summer outings and special occasions.",
+  },
+  {
+    id: 8,
+    name: "Premium Necklace",
+    category: "Accessories",
+    price: 799,
+    image: "https://images.unsplash.com/photo-1748332505463-b2fd1ce28e07?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    description: "Rich and Elegance",
+  },
+  {
+    id: 9,
+    name: "Kurti",
+    category: "Women",
+    price: 400,
+    image: "https://images.unsplash.com/photo-1669201160933-d98d5076cef9?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    description: "A stylish and comfortable dress",
+  },
+  {
+    id: 10,
+    name: "Women's Jeans",
+    category: "Women",
+    price: 499,
+    image: "https://plus.unsplash.com/premium_photo-1689371953070-10782471db47?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    description: "A classy and comfy Denims",
+  },
+  {
+    id: 11,
+    name: "Shirt",
+    category: "Men",
+    price: 1200,
+    image: "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?q=80&w=669&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    description: "A classy and comfy Denims",
+  },
+   {
+    id: 12,
+    name: "Block Heels",
+    category: "Footwear",
+    price: 1000,
+    image: "https://images.unsplash.com/photo-1718365837137-13cbd931068a?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    description: "Footwear that give Pride",
+  },
+  {
+    id: 13,
+    name: "Ring",
+    category: "Accessories",
+    price: 1300,
+    image: "https://images.unsplash.com/photo-1603561596112-0a132b757442?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    description: "Rich and Elegance",
+  }
+
+];
+
+export default products;
+
